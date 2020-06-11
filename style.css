@@ -1,0 +1,24 @@
+li#g {
+	color:green;
+}
+
+li#r {
+	color:red;
+}
+
+
+body {
+	background: lightblue;
+}
+
+a{
+	color:black;
+}
+
+.teammates{
+	color:darkblue;
+}
+
+table,th,td{
+	border:1px solid black;
+}
